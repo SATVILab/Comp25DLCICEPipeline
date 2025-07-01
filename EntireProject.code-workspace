@@ -4,7 +4,13 @@
       "path": "."
     },
     {
+      "path": "../DataTidy23AppMpuFAUSTBCG"
+    },
+    {
       "path": "../DataProcessed25DLCICEPipeline"
+    },
+    {
+      "path": "../faust"
     }
   ]
 }
