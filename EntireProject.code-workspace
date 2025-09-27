@@ -18,5 +18,8 @@
     {
       "path": "../UtilsFaustSV"
     }
-  ]
+  ],
+  "settings": {
+    "r.lsp.promptToInstall": false
+  }
 }
