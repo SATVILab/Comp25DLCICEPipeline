@@ -20,6 +20,8 @@
     }
   ],
   "settings": {
-    "r.lsp.promptToInstall": false
+    "r.lsp.promptToInstall": false,
+    "r.alwaysUseActiveTerminal": true,
+    "editor.hover.enabled": false
   }
 }
